@@ -37,4 +37,4 @@ We reserve the right to modify these Terms at any time. Continued use of the app
 
 ### 9. Contact Us
 If you have any questions regarding these Terms, please contact us at:
-- **Email:** support@lingvomate.app
+Email: lingvomatesupport@gmail.com
