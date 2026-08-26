@@ -54,4 +54,4 @@ LingvoMate does not knowingly collect personal information from children under t
 ### 7. Contact Us
 
 If you have any questions or requests regarding this Privacy Policy, please contact us at:
-- **Email:** support@lingvomate.app
+- **Email:** [lingvomatesupport@gmail.com](mailto:lingvomatesupport@gmail.com)
